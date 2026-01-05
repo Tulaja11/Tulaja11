@@ -1,5 +1,5 @@
 # 🎓 About Me:
-Final-year Computer Engineering student focused on learning and applying Data Analytics concepts.
+Final-year Computer Engineering student focused on learning and applying Data Analytics concepts.                                                                                                                      
 Working with Python and SQL while building data-driven projects.
 
 ## 🌐 Socials:

@@ -1,10 +1,9 @@
 # 🎓 About Me:
-Final-year Computer Engineering student focused on learning and applying Data Analytics concepts.<br>
-- Working knowledge of Python and SQL with exposure to data analysis libraries.<br>
+Final-year Computer Engineering student focused on learning and applying Data Analytics concepts.
+Working with Python and SQL while building data-driven projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tulajaspatil1103@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

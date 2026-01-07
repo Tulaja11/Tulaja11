@@ -15,6 +15,7 @@ Working with Python and SQL while building data-driven projects.
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tulaja11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tulaja11&theme=dark&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tulaja11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

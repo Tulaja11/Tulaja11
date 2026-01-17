@@ -5,7 +5,7 @@ Working with Python and SQL while building data-driven projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulajaspatil1103@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)]([![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://drive.google.com/your-resume-link))
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://drive.google.com/file/d/1HK4qfGSk7N5KGeWmppwPz-_m_JIfu6P8/view)
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

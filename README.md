@@ -4,7 +4,6 @@ Working with Python and SQL while building data-driven projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)<br/>
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Tanu_1103/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://drive.google.com/file/d/1HK4qfGSk7N5KGeWmppwPz-_m_JIfu6P8/view)<br/>
 
 
@@ -26,7 +25,7 @@ Working with Python and SQL while building data-driven projects.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tulaja11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tulaja11&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tulaja11&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tulaja11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 

@@ -5,6 +5,8 @@ Working with Python and SQL while building data-driven projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://drive.google.com/file/d/1HK4qfGSk7N5KGeWmppwPz-_m_JIfu6P8/view)<br/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Tanu_1103/)
+
 
 ## 📜 Certificates & Achievements <br/>
 🔗 View all verified certificates here: <br/> 

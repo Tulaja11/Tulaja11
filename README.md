@@ -3,7 +3,7 @@ Final-year Computer Engineering student focused on learning and applying Data An
 Working with Python and SQL while building data-driven projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://drive.google.com/file/d/1HK4qfGSk7N5KGeWmppwPz-_m_JIfu6P8/view)<br/>
 
 

@@ -1,6 +1,8 @@
 # 🎓 About Me:
 Final-year Computer Engineering student with hands-on experience in Data Analytics, Machine Learning, and API Development.
+
 Skilled in Python, SQL, Power BI, FastAPI, and Scikit-learn, with experience building predictive models, interactive dashboards, ETL pipelines, and LLM-powered applications.
+
 Passionate about solving business problems through data-driven decision-making and continuously exploring new technologies in analytics and AI.
 
 ## 🌐 Socials:

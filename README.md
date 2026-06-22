@@ -1,6 +1,7 @@
 # 🎓 About Me:
-Final-year Computer Engineering student focused on learning and applying Data Analytics concepts.                                                                                                                      
-Working with Python and SQL while building data-driven projects.
+Final-year Computer Engineering student with hands-on experience in Data Analytics, Machine Learning, and API Development.
+Skilled in Python, SQL, Power BI, FastAPI, and Scikit-learn, with experience building predictive models, interactive dashboards, ETL pipelines, and LLM-powered applications.
+Passionate about solving business problems through data-driven decision-making and continuously exploring new technologies in analytics and AI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)

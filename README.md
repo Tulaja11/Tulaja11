@@ -1,9 +1,10 @@
 # 🎓 About Me:
-Final-year Computer Engineering student with hands-on experience in Data Analytics, Machine Learning, and API Development.
+CS engineer (GPA 9.38) specializing in Generative AI and agentic systems. Built multi-agent LangGraph pipelines, semantic RAG
+systems, and ML classifiers applied on real datasets. Skilled in Python, FastAPI, LangChain, ChromaDB, and Google Gemini API, with
+an Oracle Agentic AI certification.
 
-Skilled in Python, SQL, Power BI, FastAPI, and Scikit-learn, with experience building predictive models, interactive dashboards, ETL pipelines, and LLM-powered applications.
-
-Passionate about solving business problems through data-driven decision-making and continuously exploring new technologies in analytics and AI.
+## Portfolio :
+https://tulaja-portfolio.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)

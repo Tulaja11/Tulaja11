@@ -8,7 +8,6 @@ https://tulaja-portfolio.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulajapatil/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://drive.google.com/file/d/1HK4qfGSk7N5KGeWmppwPz-_m_JIfu6P8/view)<br/>
 
 
 
